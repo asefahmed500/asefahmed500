@@ -31,7 +31,7 @@
 - 🎓 **BSc in Computer Science & Engineering** from **North South University**.
 - 📚 Currently learning **Next.js, Firebase Authentication, and Shopify development**.
 - ⚡ I enjoy **solving coding challenges, exploring new tech, and contributing to open-source**.
-- 🌍 Visit my portfolio: [asef-ahmed.onrender.com](https://asef-ahmed.onrender.com)
+- 🌍 Visit my portfolio: [https://asefahmedportfolioweb.vercel.app)
 
 ---
 
