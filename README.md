@@ -52,19 +52,6 @@
 
 ---
 
-<h3 align="left">📂 Featured Projects</h3>
-
-🚀 **[JobPortalX](https://github.com/asefahmed500/JobPortalX)**
-- A job portal for connecting employers and job seekers.
-- **Tech:** React, Tailwind CSS, Node.js, MongoDB.
-
-🌍 **[TourX](https://github.com/asefahmed500/Tour-X-Client)**
-- A travel booking platform with real-time booking and payment integration.
-- **Tech:** React, Firebase, Node.js, Express, PayPal.
-
-🖥️ **[PortfolioZ](https://github.com/asefahmed500/PortfolioZ-client)**
-- A customizable portfolio builder for developers.
-- **Tech:** React, Tailwind CSS, Firebase, MongoDB.
 
 ---
 
