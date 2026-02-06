@@ -56,21 +56,6 @@ Full-stack (MERN) developer with hands-on experience building **scalable, produc
 - Full-stack MERN platform for managing commercial printing services and online orders  
 - Implemented product management, order processing, and customer-facing responsive UI  
 
----
-
-### 📊 PrimePrint Pro — Admin & Operations Dashboard  
-🔗 https://primeprintpro.vercel.app/
-- Internal MERN dashboard for order tracking, customer management, and reporting  
-- Implemented secure authentication and role-based access control  
-
----
-
-### 📈 AlgoSales Pro — Sales Management System  
-🔗 https://algosalespro.vercel.app/
-- MERN-based sales and lead management system with analytics dashboards  
-- Features include lead tracking, pipeline management, and reporting  
-
----
 
 ### 🏢 AlgoMakers Ltd — Software Company Website  
 🔗 https://algomakersltd.vercel.app/
