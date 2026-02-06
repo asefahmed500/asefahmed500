@@ -91,18 +91,4 @@ MongoDB, Mongoose
 **Tools & Platforms:**  
 JWT, Firebase, Postman, Figma, Vercel  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asefahmed11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asefahmed11&theme=tokyonight" />
-</p>
-
----
-
 ✨ *Open to collaboration, full-time roles, and impactful projects.*
