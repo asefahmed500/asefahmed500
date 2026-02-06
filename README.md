@@ -1,67 +1,123 @@
+# 👋 Hi, I'm Asef Ahmed
 
-### 
+💻 **Full-Stack MERN Developer** | 🚀 Production-Grade Web Apps | 🌍 Dhaka, Bangladesh  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/asefahmed11">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/asefahmed500">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-</div>
-
-### 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=asefahmed500.asefahmed500" />
-</div>
-
-### 
-
-<h1 align="center">Hey there 👋, I'm Asef Ahmed</h1>
-
-### 
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-- 🔭 I’m a **MERN Stack Developer** passionate about building innovative web applications.
-- 🎓 **BSc in Computer Science & Engineering** from **North South University**.
-- 📚 Currently learning **Next.js, Firebase Authentication, and Shopify development**.
-- ⚡ I enjoy **solving coding challenges, exploring new tech, and contributing to open-source**.
-- 🌍 Visit my portfolio: [https://asefahmedportfolioweb.vercel.app)
+📧 **Email:** asefahmed500@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/asefahmed11](https://linkedin.com/in/asefahmed11)
 
 ---
 
-<h3 align="left">🛠 Tech Stack & Tools</h3>
+## 🧠 Summary
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
+Full-stack (MERN) developer with hands-on experience building **scalable, production-ready web applications** using MongoDB, Express.js, React, and Node.js. Strong background in **REST API development, authentication, role-based access control**, and responsive UI engineering. Experienced working in **enterprise environments, startups, and client-facing projects**.
 
 ---
 
+## 💼 Experience
+
+### 🏢 International Office Machines Limited (IOM)  
+**Software Developer**  
+🗓️ *Nov 2025 – Present | On-site*
+- Developing and maintaining enterprise-grade web applications using the MERN stack  
+- Designing RESTful APIs, database schemas, and secure RBAC systems  
+- Collaborating with cross-functional teams to deliver scalable internal and client-facing solutions  
 
 ---
 
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asefahmed500&show_icons=true&theme=radical&hide_border=true" height="220" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=asefahmed500&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
-</div>
+### 🌍 Culturelligence  
+**Agile PeopleOps Intern**  
+🗓️ *May 2025 – Aug 2025 | Remote*
+- Supported R&D initiatives focused on PeopleOps innovation  
+- Applied Agile methodologies to HR processes, improving operational efficiency  
 
 ---
 
-⭐ **Let's Connect!**  
-📧 Email: asefahmed500@gmail.com  
-🔗 LinkedIn: [Asef Ahmed](https://www.linkedin.com/in/asefahmed11)  
+### 💻 HexSoftwares  
+**Web Developer Intern**  
+🗓️ *Apr 2025 – May 2025 | Remote*
+- Built real-world JavaScript applications to strengthen frontend skills  
+- Assisted in REST API development and database optimization  
+
+---
+
+### 🎨 Itransition Group  
+**Frontend Developer Intern**  
+🗓️ *Mar 2025 – May 2025 | Remote*
+- Developed responsive user interfaces using React and Next.js  
+- Built reusable UI components with Tailwind CSS  
+- Collaborated using Git-based version control workflows  
+
+---
+
+## 🚀 Projects (Production – MERN Stack)
+
+### 🖨️ PrimePrint BD — E-Commerce Platform  
+🔗 https://www.primeprintbd.com/
+- Full-stack MERN platform for managing commercial printing services and online orders  
+- Implemented product management, order processing, and customer-facing responsive UI  
+
+---
+
+### 📊 PrimePrint Pro — Admin & Operations Dashboard  
+🔗 https://primeprintpro.vercel.app/
+- Internal MERN dashboard for order tracking, customer management, and reporting  
+- Implemented secure authentication and role-based access control  
+
+---
+
+### 📈 AlgoSales Pro — Sales Management System  
+🔗 https://algosalespro.vercel.app/
+- MERN-based sales and lead management system with analytics dashboards  
+- Features include lead tracking, pipeline management, and reporting  
+
+---
+
+### 🏢 AlgoMakers Ltd — Software Company Website  
+🔗 https://algomakersltd.vercel.app/
+- Designed and developed the official corporate website for a software company  
+- Built a modern, responsive UI and optimized performance for production deployment  
+
+---
+
+## 🎓 Education
+
+**University of Dhaka**  
+📘 *EMIT in Information Technology*  
+🗓️ *2025 – Present*
+
+**North South University**  
+🎓 *BSc in Computer Science & Engineering*  
+🗓️ *2020 – 2024*  
+📊 **CGPA:** 3.03  
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend:**  
+React, Next.js, JavaScript, TypeScript, Tailwind CSS  
+
+**Backend:**  
+Node.js, Express.js, REST APIs  
+
+**Database:**  
+MongoDB, Mongoose  
+
+**Tools & Platforms:**  
+JWT, Firebase, Postman, Figma, Vercel  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asefahmed11&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asefahmed11&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Open to collaboration, full-time roles, and impactful projects.*
