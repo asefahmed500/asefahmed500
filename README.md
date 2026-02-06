@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.ibb.co.com/mxj6LK1/ASEF.png" />
-</div>
 
 ### 
 
