@@ -52,7 +52,7 @@ Full-stack (MERN) developer with hands-on experience building **scalable, produc
 ## 🚀 Projects (Production – MERN Stack)
 
 ### 🖨️ PrimePrint BD — E-Commerce Platform  
-🔗 https://www.primeprintbd.com/
+🔗 https://pps-ltd.vercel.app
 - Full-stack MERN platform for managing commercial printing services and online orders  
 - Implemented product management, order processing, and customer-facing responsive UI  
 
