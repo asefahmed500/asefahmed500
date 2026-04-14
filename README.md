@@ -68,12 +68,12 @@ Full-stack (MERN) developer with hands-on experience building **scalable, produc
 
 **University of Dhaka**  
 📘 *EMIT in Information Technology*  
-🗓️ *2025 – Present*
+
 
 **North South University**  
 🎓 *BSc in Computer Science & Engineering*  
-🗓️ *2020 – 2024*  
-📊 **CGPA:** 3.03  
+
+
 
 ---
 
@@ -86,7 +86,7 @@ React, Next.js, JavaScript, TypeScript, Tailwind CSS
 Node.js, Express.js, REST APIs  
 
 **Database:**  
-MongoDB, Mongoose  
+MongoDB, Mongoose , Pisma , PostgreSQL
 
 **Tools & Platforms:**  
 JWT, Firebase, Postman, Figma, Vercel  
