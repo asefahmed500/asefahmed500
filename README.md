@@ -17,7 +17,7 @@ Full-stack (MERN) developer with hands-on experience building **scalable, produc
 
 ### 🏢 International Office Machines Limited (IOM)  
 **Software Developer**  
-🗓️ *Nov 2025 – Present | On-site*
+🗓️ *Nov 2025 – April2026 | On-site*
 - Developing and maintaining enterprise-grade web applications using the MERN stack  
 - Designing RESTful APIs, database schemas, and secure RBAC systems  
 - Collaborating with cross-functional teams to deliver scalable internal and client-facing solutions  
