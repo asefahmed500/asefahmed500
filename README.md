@@ -50,21 +50,6 @@ Full-stack (MERN) developer with hands-on experience building **scalable, produc
 
 ---
 
-## 🚀 Projects (Production – MERN Stack)
-
-### 🖨️ PrimePrint BD — E-Commerce Platform  
-🔗 https://pps-ltd.vercel.app
-- Full-stack MERN platform for managing commercial printing services and online orders  
-- Implemented product management, order processing, and customer-facing responsive UI  
-
-
-### 🏢 AlgoMakers Ltd — Software Company Website  
-🔗 https://algomakersltd.vercel.app/
-- Designed and developed the official corporate website for a software company  
-- Built a modern, responsive UI and optimized performance for production deployment  
-
----
-
 ## 🎓 Education
 
 **University of Dhaka**  
